@@ -126,7 +126,7 @@ void main()
 > \[lemon的Markdown库\]\(https:://github.com/lemon4188/helloworld\)。
 
 效果：
-> [younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")。
+> [lemon的Markdown库](https:://github.com/lemon4188/helloworld "markdown")。
 
 **参考式**：
 > \[younghz的Markdown库1\]\[1\]    
