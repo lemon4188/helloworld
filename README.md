@@ -9,7 +9,17 @@
 
 …
 ```
-sdjfhksjdhfskj
+import java.util.Scanner;//导入 Scanner 类
+public class AL {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("请输入专业:");
+        String n=sc.nextLine();
+        System.out.println("请输入姓名:");
+        String name=sc.nextLine();
+        System.out.println("欢迎"+n+"专业的"+name+"同学开始学习面向对象程序设计！");
+    }
+}
 ```
 
 阿巴阿巴
