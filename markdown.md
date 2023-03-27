@@ -123,7 +123,7 @@ void main()
 #### 4.8 链接
 链接可以由两种形式生成：**行内式**和**参考式**。    
 **行内式**：
-> \[lemon的Markdown库\]\(https://github.com/lemon4188/helloworld)。
+> \[lemon的Markdown库\]\(https:://github.com/lemon4188/helloworld\)。
 
 效果：
 > [younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")。
